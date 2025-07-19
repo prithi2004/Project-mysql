@@ -7,7 +7,7 @@ A simple and functional PHP + MySQL-based Student Result Management System. It p
 ## 🔧 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP  
+- **Backend**: PHP 
 - **Database**: MySQL
 
 ---
