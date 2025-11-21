@@ -17,6 +17,3 @@ The Documentaion file for this project is named as `HMS-report.pdf`, Do check it
 
 ## Conceptual Schema Design
 <img src="https://lh5.googleusercontent.com/MEQyQdwUZFKynheVPVAmFMglCEtXbOPxuqdJgOSG5yreYEv8TqRKDKO9mHe3COrDrfcDhv4m3xb1vPdP68ItkJFCqVc-ZudpLNUXGadSfjHJX0ACa0VayKoVuNFx9ETazcjYjrZu">
-
-
-
