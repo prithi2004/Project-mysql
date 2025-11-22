@@ -77,5 +77,3 @@ Feel free to submit issues or pull requests to improve the project. Suggestions 
 
 ⭐ Show Your Support
 If you like this project, please give it a ⭐ and share it with others!
-
-
